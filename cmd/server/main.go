@@ -6,8 +6,8 @@ import (
 
 	"google.golang.org/grpc"
 
-	pd "chat-service/pkg/grpc"
-	"chat-service/internal/domain/services"
+	pd "github.com/NeuraSoul/chat-service/pkg/grpc"
+	"github.com/NeuraSoul/chat-service/internal/domain/services"
 )
 
 

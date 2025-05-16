@@ -1,4 +1,4 @@
-module chat-service
+module github.com/NeuraSoul/chat-service
 
 go 1.23.2
 

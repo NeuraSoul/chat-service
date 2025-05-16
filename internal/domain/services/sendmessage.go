@@ -3,7 +3,7 @@ package services
 
 import (
 
-	pd "chat-service/pkg/grpc"
+	pd "github.com/NeuraSoul/chat-service/pkg/grpc"
 	"context"
 
 )
